@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resources_example</string>
+    <string name="hello">Γεία σου Κόσμε</string>
+    <string name="btn_save">Αποθήκευση</string>
+</resources>
